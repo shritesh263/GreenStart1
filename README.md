@@ -1,5 +1,8 @@
 # 🌿 Green Start — Easy Houseplants for Complete Beginners
 
+> 🌐 **Live Demo:** [https://greenstart10.vercel.app/](https://greenstart10.vercel.app/)  
+> Visit the live site deployed on Vercel: **[https://greenstart10.vercel.app/](https://greenstart10.vercel.app/)**
+
 **Green Start** is a clean, calm, and beginner-friendly static website designed to help anyone start growing houseplants with zero stress. Built purely with semantic **HTML5** and modern **CSS3**—no frameworks, no JavaScript libraries, and no build tools required.
 
 ---
@@ -62,9 +65,17 @@ If you use Visual Studio Code:
 
 ---
 
-## 🌐 How to Deploy for Free
+## 🌐 Live Deployment & Free Hosting
 
-### Method A: Netlify Drop (Instant Drag & Drop — 30 Seconds)
+### 🟢 Active Deployment (Vercel)
+The site is live in production at:
+👉 **[https://greenstart10.vercel.app/](https://greenstart10.vercel.app/)**
+
+---
+
+### Alternative Free Hosting Options
+
+#### Method A: Netlify Drop (Instant Drag & Drop — 30 Seconds)
 1. Go to [app.netlify.com/drop](https://app.netlify.com/drop) (log in or create a free account).
 2. Drag and drop the entire project folder (`apno1`) onto the drop area.
 3. Netlify will instantly deploy your site and provide a free, live `https://*.netlify.app` link.
